@@ -1,0 +1,28 @@
+loadproducts tests/products.txt
+logclients tests/clients.txt
+showsold
+showearnings
+clientrequest 6 2 5
+clientrequest 2028 2 5
+clientrequest 3347 2 5
+clientrequest 63 2 5
+clientrequest 46 2 5
+clientrequest 60 3 5
+clientrequest 17 3 5
+clientrequest 60 3 5
+clientrequest 4 3 5
+clientrequest 91085 3 5
+clientrequest 4 3 5
+clientrequest 6 1 5
+clientrequest 2028 1 10
+clientrequest 3347 1 90
+clientrequest 63 1 1000
+clientrequest 46 1 80
+clientrequest 60 28 30
+clientrequest 17 28 35
+clientrequest 12 28 67
+clientrequest 4 28 23
+clientrequest 91085 28 126
+showsold
+showearnings
+done

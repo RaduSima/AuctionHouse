@@ -1,0 +1,9 @@
+natural 2462 radu militari 12.09.1995
+natural 2462672 marcel militari 12.09.1996
+natural 226462 gigel militari 12.09.1997
+natural 246112 marius militari 12.09.1998
+natural 2462 ionutz militari 12.09.1993
+legal 246372 maraSRL militari SRL 23.56
+legal 152462 andraSRL militari SRL 25.56
+legal 257462 mirunaSRL militari SA 78.95
+legal 2463682 andreiSRL militari SA 11.11

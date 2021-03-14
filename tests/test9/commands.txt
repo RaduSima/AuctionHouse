@@ -1,0 +1,53 @@
+loadproducts tests/products.txt
+logclients tests/clients.txt
+showsold
+showearnings
+clientrequest 251 2 100
+clientrequest 10 2 400
+clientrequest 86 2 300
+clientrequest 20215 2 5
+clientrequest 12 2 60
+clientrequest 60 3 10
+clientrequest 17 3 20
+clientrequest 60 3 50
+clientrequest 4 3 90
+clientrequest 91085 3 100
+clientrequest 4 3 100
+clientrequest 6 1 100
+clientrequest 2028 1 10
+clientrequest 3347 1 90
+clientrequest 63 1 1000
+clientrequest 46 1 80
+clientrequest 60 28 30
+clientrequest 17 28 35
+clientrequest 12 28 67
+clientrequest 4 28 23
+clientrequest 91085 28 126
+clientrequest 91085 28 126
+clientrequest 91085 28 126
+clientrequest 27 20 50
+clientrequest 56 20 4000
+clientrequest 52 20 600
+clientrequest 7 20 500
+clientrequest 2028 20 700
+clientrequest 16 21 800
+clientrequest 17 21 100
+clientrequest 12 21 45
+clientrequest 2745 21 100
+clientrequest 20215 21 30
+clientrequest 20215 21 30
+clientrequest 9 28 126
+clientrequest 60 28 126
+clientrequest 71 23 50
+clientrequest 5056 220 4000
+clientrequest 86 23 600
+clientrequest 7 23 500
+clientrequest 20215 20 700
+clientrequest 12 22 800
+clientrequest 17 22 100
+clientrequest 12 22 45
+clientrequest 2745 22 100
+clientrequest 20215 22 30
+clientrequest 20215 22 30
+showsold
+done

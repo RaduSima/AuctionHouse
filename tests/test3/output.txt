@@ -1,0 +1,241 @@
+
+Sold products:
+None
+
+Broker earnings:
+Broker 0: 0
+Broker 1: 0
+Broker 2: 0
+Broker 3: 0
+Broker 4: 0
+Broker 5: 0
+Broker 6: 0
+Broker 7: 0
+
+Created auction with ID 10 - 1 / 5 participants
+Added client with ID 2028 to auction with ID 10 - 2 / 5 participants
+Added client with ID 3347 to auction with ID 10 - 3 / 5 participants
+Added client with ID 63 to auction with ID 10 - 4 / 5 participants
+Added client with ID 46 to auction with ID 10 - 5 / 5 participants
+Started auction with ID 10 - 5 / 5 participants
+Broker 0 got bid of 0.0 from client with ID 3347 and personal max of 1000
+Broker 2 got bid of 0.0 from client with ID 46 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 6 and personal max of 1000
+Broker 4 got bid of 1110.0 from client with ID 2028 and personal max of 1200
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [0.0, 0.0, 0.0, 1110.0, 0.0]
+Auction house calculated max bid for auction with id 10, step 0
+Max bid is: 1110.0
+Broker 0 got bid of 0.0 from client with ID 3347 and personal max of 1000
+Broker 2 got bid of 0.0 from client with ID 46 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 6 and personal max of 1000
+Broker 4 got bid of 1110.0 from client with ID 2028 and personal max of 1200
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [0.0, 0.0, 0.0, 1110.0, 0.0]
+Auction house calculated max bid for auction with id 10, step 1
+Max bid is: 1110.0
+Broker 0 got bid of 0.0 from client with ID 3347 and personal max of 1000
+Broker 2 got bid of 0.0 from client with ID 46 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 6 and personal max of 1000
+Broker 4 got bid of 1110.0 from client with ID 2028 and personal max of 1200
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [0.0, 0.0, 0.0, 1110.0, 0.0]
+Auction house calculated max bid for auction with id 10, step 2
+Max bid is: 1110.0
+Broker 0 got bid of 0.0 from client with ID 3347 and personal max of 1000
+Broker 2 got bid of 0.0 from client with ID 46 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 6 and personal max of 1000
+Broker 4 got bid of 1110.0 from client with ID 2028 and personal max of 1200
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [0.0, 0.0, 0.0, 1110.0, 0.0]
+Auction house calculated max bid for auction with id 10, step 3
+Max bid is: 1110.0
+Broker 0 got bid of 0.0 from client with ID 3347 and personal max of 1000
+Broker 2 got bid of 0.0 from client with ID 46 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 6 and personal max of 1000
+Broker 4 got bid of 1192.0 from client with ID 2028 and personal max of 1200
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [0.0, 0.0, 0.0, 1192.0, 0.0]
+Auction house calculated max bid for auction with id 10, step 4
+Max bid is: 1192.0
+Broker 0 got paid 0 and now has 0
+Broker 2 got paid 0 and now has 0
+Broker 4 got paid 0 and now has 0
+Broker 4 got paid 238 and now has 238
+Broker 4 got paid 0 and now has 238
+Sold product with ID 10 and min price of 200.0 to client with ID 2028 for 1192.0
+
+Created auction with ID 3 - 1 / 5 participants
+Added client with ID 17 to auction with ID 3 - 2 / 5 participants
+Added client with ID 60 to auction with ID 3 - 3 / 5 participants
+Added client with ID 4 to auction with ID 3 - 4 / 5 participants
+Added client with ID 91085 to auction with ID 3 - 5 / 5 participants
+Started auction with ID 3 - 5 / 5 participants
+Broker 1 got bid of 934.0 from client with ID 91085 and personal max of 1000
+Broker 2 got bid of 306.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 0.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 437.0 from client with ID 60 and personal max of 1000
+Broker 7 got bid of 0.0 from client with ID 4 and personal max of 1000
+Bids are: [934.0, 306.0, 0.0, 437.0, 0.0]
+Auction house calculated max bid for auction with id 3, step 0
+Max bid is: 934.0
+Broker 1 got bid of 934.0 from client with ID 91085 and personal max of 1000
+Broker 2 got bid of 950.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 0.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 950.0 from client with ID 60 and personal max of 1000
+Broker 7 got bid of 963.0 from client with ID 4 and personal max of 1000
+Bids are: [934.0, 950.0, 0.0, 950.0, 963.0]
+Auction house calculated max bid for auction with id 3, step 1
+Max bid is: 963.0
+Broker 1 got bid of 934.0 from client with ID 91085 and personal max of 1000
+Broker 2 got bid of 964.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 0.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 998.0 from client with ID 60 and personal max of 1000
+Broker 7 got bid of 963.0 from client with ID 4 and personal max of 1000
+Bids are: [934.0, 964.0, 0.0, 998.0, 963.0]
+Auction house calculated max bid for auction with id 3, step 2
+Max bid is: 998.0
+Broker 1 got bid of 934.0 from client with ID 91085 and personal max of 1000
+Broker 2 got bid of 998.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 0.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 998.0 from client with ID 60 and personal max of 1000
+Broker 7 got bid of 999.0 from client with ID 4 and personal max of 1000
+Bids are: [934.0, 998.0, 0.0, 998.0, 999.0]
+Auction house calculated max bid for auction with id 3, step 3
+Max bid is: 999.0
+Broker 1 got bid of 999.0 from client with ID 91085 and personal max of 1000
+Broker 2 got bid of 998.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 999.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 998.0 from client with ID 60 and personal max of 1000
+Broker 7 got bid of 999.0 from client with ID 4 and personal max of 1000
+Bids are: [999.0, 998.0, 999.0, 998.0, 999.0]
+Auction house calculated max bid for auction with id 3, step 4
+Max bid is: 999.0
+Broker 1 got paid 199 and now has 199
+Broker 2 got paid 199 and now has 199
+Broker 3 got paid 199 and now has 199
+Broker 5 got paid 199 and now has 199
+Broker 7 got paid 199 and now has 199
+Sold product with ID 3 and min price of 200.0 to client with ID 91085 for 999.0
+
+Created auction with ID 1 - 1 / 5 participants
+Added client with ID 2028 to auction with ID 1 - 2 / 5 participants
+Added client with ID 3347 to auction with ID 1 - 3 / 5 participants
+Added client with ID 63 to auction with ID 1 - 4 / 5 participants
+Added client with ID 46 to auction with ID 1 - 5 / 5 participants
+Started auction with ID 1 - 5 / 5 participants
+Broker 1 got bid of 0.0 from client with ID 3347 and personal max of 1000
+Broker 1 got bid of 381.0 from client with ID 46 and personal max of 1000
+Broker 3 got bid of 0.0 from client with ID 6 and personal max of 1000
+Broker 3 got bid of 0.0 from client with ID 2028 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [0.0, 381.0, 0.0, 0.0, 0.0]
+Auction house calculated max bid for auction with id 1, step 0
+Max bid is: 381.0
+Broker 1 got bid of 0.0 from client with ID 3347 and personal max of 1000
+Broker 1 got bid of 384.0 from client with ID 46 and personal max of 1000
+Broker 3 got bid of 0.0 from client with ID 6 and personal max of 1000
+Broker 3 got bid of 584.0 from client with ID 2028 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [0.0, 384.0, 0.0, 584.0, 0.0]
+Auction house calculated max bid for auction with id 1, step 1
+Max bid is: 584.0
+Broker 1 got bid of 623.0 from client with ID 3347 and personal max of 1000
+Broker 1 got bid of 384.0 from client with ID 46 and personal max of 1000
+Broker 3 got bid of 785.0 from client with ID 6 and personal max of 1000
+Broker 3 got bid of 584.0 from client with ID 2028 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [623.0, 384.0, 785.0, 584.0, 0.0]
+Auction house calculated max bid for auction with id 1, step 2
+Max bid is: 785.0
+Broker 1 got bid of 623.0 from client with ID 3347 and personal max of 1000
+Broker 1 got bid of 384.0 from client with ID 46 and personal max of 1000
+Broker 3 got bid of 785.0 from client with ID 6 and personal max of 1000
+Broker 3 got bid of 584.0 from client with ID 2028 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [623.0, 384.0, 785.0, 584.0, 0.0]
+Auction house calculated max bid for auction with id 1, step 3
+Max bid is: 785.0
+Broker 1 got bid of 623.0 from client with ID 3347 and personal max of 1000
+Broker 1 got bid of 384.0 from client with ID 46 and personal max of 1000
+Broker 3 got bid of 898.0 from client with ID 6 and personal max of 1000
+Broker 3 got bid of 584.0 from client with ID 2028 and personal max of 1000
+Broker 4 got bid of 0.0 from client with ID 63 and personal max of 1000
+Bids are: [623.0, 384.0, 898.0, 584.0, 0.0]
+Auction house calculated max bid for auction with id 1, step 4
+Max bid is: 898.0
+Broker 1 got paid 124 and now has 323
+Broker 1 got paid 76 and now has 399
+Broker 3 got paid 179 and now has 378
+Broker 3 got paid 116 and now has 494
+Broker 4 got paid 0 and now has 238
+Sold product with ID 1 and min price of 100.0 to client with ID 6 for 898.0
+
+Created auction with ID 28 - 1 / 5 participants
+Added client with ID 17 to auction with ID 28 - 2 / 5 participants
+Added client with ID 12 to auction with ID 28 - 3 / 5 participants
+Added client with ID 4 to auction with ID 28 - 4 / 5 participants
+Added client with ID 91085 to auction with ID 28 - 5 / 5 participants
+Started auction with ID 28 - 5 / 5 participants
+Broker 2 got bid of 97.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 456.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 0.0 from client with ID 12 and personal max of 1000
+Broker 7 got bid of 0.0 from client with ID 4 and personal max of 1000
+Broker 7 got bid of 0.0 from client with ID 91085 and personal max of 1000
+Bids are: [97.0, 456.0, 0.0, 0.0, 0.0]
+Auction house calculated max bid for auction with id 28, step 0
+Max bid is: 456.0
+Broker 2 got bid of 97.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 456.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 0.0 from client with ID 12 and personal max of 1000
+Broker 7 got bid of 0.0 from client with ID 4 and personal max of 1000
+Broker 7 got bid of 0.0 from client with ID 91085 and personal max of 1000
+Bids are: [97.0, 456.0, 0.0, 0.0, 0.0]
+Auction house calculated max bid for auction with id 28, step 1
+Max bid is: 456.0
+Broker 2 got bid of 704.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 685.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 0.0 from client with ID 12 and personal max of 1000
+Broker 7 got bid of 803.0 from client with ID 4 and personal max of 1000
+Broker 7 got bid of 963.0 from client with ID 91085 and personal max of 1000
+Bids are: [704.0, 685.0, 0.0, 803.0, 963.0]
+Auction house calculated max bid for auction with id 28, step 2
+Max bid is: 963.0
+Broker 2 got bid of 975.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 973.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 987.0 from client with ID 12 and personal max of 1000
+Broker 7 got bid of 803.0 from client with ID 4 and personal max of 1000
+Broker 7 got bid of 963.0 from client with ID 91085 and personal max of 1000
+Bids are: [975.0, 973.0, 987.0, 803.0, 963.0]
+Auction house calculated max bid for auction with id 28, step 3
+Max bid is: 987.0
+Broker 2 got bid of 975.0 from client with ID 60 and personal max of 1000
+Broker 3 got bid of 995.0 from client with ID 17 and personal max of 1000
+Broker 5 got bid of 987.0 from client with ID 12 and personal max of 1000
+Broker 7 got bid of 803.0 from client with ID 4 and personal max of 1000
+Broker 7 got bid of 963.0 from client with ID 91085 and personal max of 1000
+Bids are: [975.0, 995.0, 987.0, 803.0, 963.0]
+Auction house calculated max bid for auction with id 28, step 4
+Max bid is: 995.0
+Broker 2 got paid 195 and now has 394
+Broker 3 got paid 199 and now has 693
+Broker 5 got paid 197 and now has 396
+Broker 7 got paid 160 and now has 359
+Broker 7 got paid 192 and now has 551
+Sold product with ID 28 and min price of 100.0 to client with ID 17 for 995.0
+
+Sold products:
+Furniture{type='big', material='wood1', id=1, year=2001, name='Brainsphere', minPrice=100.0, sellingPrice=898.0} sold to client with id 6
+Jewelry{material='carbon', isPrecious=true, id=28, year=1968, name='Meemm', minPrice=100.0, sellingPrice=995.0} sold to client with id 17
+Furniture{type='big', material='wood3', id=3, year=2008, name='Rhynoodle', minPrice=200.0, sellingPrice=999.0} sold to client with id 91085
+Furniture{type='small', material='wood10', id=10, year=1994, name='Brightdog', minPrice=200.0, sellingPrice=1192.0} sold to client with id 2028
+
+Broker earnings:
+Broker 0: 0
+Broker 1: 399
+Broker 2: 394
+Broker 3: 693
+Broker 4: 238
+Broker 5: 396
+Broker 6: 0
+Broker 7: 551

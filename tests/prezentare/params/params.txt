@@ -1,0 +1,1 @@
+tests/test10/commands.txt tests/test10/output.txt tests/test10/errors.txt

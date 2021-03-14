@@ -1,0 +1,383 @@
+
+Sold products:
+None
+
+Broker earnings:
+Broker 0: 0
+Broker 1: 0
+
+Created auction with ID 2 - 1 / 5 participants
+Added client with ID 10 to auction with ID 2 - 2 / 5 participants
+Added client with ID 86 to auction with ID 2 - 3 / 5 participants
+Added client with ID 20215 to auction with ID 2 - 4 / 5 participants
+Added client with ID 12 to auction with ID 2 - 5 / 5 participants
+Started auction with ID 2 - 5 / 5 participants
+Broker 0 got bid of 82.0 from client with ID 251 and personal max of 100
+Broker 0 got bid of 0.0 from client with ID 20215 and personal max of 5
+Broker 1 got bid of 0.0 from client with ID 10 and personal max of 400
+Broker 1 got bid of 123.0 from client with ID 86 and personal max of 300
+Broker 1 got bid of 50.0 from client with ID 12 and personal max of 60
+Bids are: [82.0, 0.0, 0.0, 123.0, 50.0]
+Auction house calculated max bid for auction with id 2, step 0
+Max bid is: 123.0
+Broker 0 got bid of 82.0 from client with ID 251 and personal max of 100
+Broker 0 got bid of 0.0 from client with ID 20215 and personal max of 5
+Broker 1 got bid of 268.0 from client with ID 10 and personal max of 400
+Broker 1 got bid of 123.0 from client with ID 86 and personal max of 300
+Broker 1 got bid of 50.0 from client with ID 12 and personal max of 60
+Bids are: [82.0, 0.0, 268.0, 123.0, 50.0]
+Auction house calculated max bid for auction with id 2, step 1
+Max bid is: 268.0
+Broker 0 got bid of 82.0 from client with ID 251 and personal max of 100
+Broker 0 got bid of 0.0 from client with ID 20215 and personal max of 5
+Broker 1 got bid of 268.0 from client with ID 10 and personal max of 400
+Broker 1 got bid of 123.0 from client with ID 86 and personal max of 300
+Broker 1 got bid of 50.0 from client with ID 12 and personal max of 60
+Bids are: [82.0, 0.0, 268.0, 123.0, 50.0]
+Auction house calculated max bid for auction with id 2, step 2
+Max bid is: 268.0
+Broker 0 got bid of 82.0 from client with ID 251 and personal max of 100
+Broker 0 got bid of 0.0 from client with ID 20215 and personal max of 5
+Broker 1 got bid of 288.0 from client with ID 10 and personal max of 400
+Broker 1 got bid of 123.0 from client with ID 86 and personal max of 300
+Broker 1 got bid of 50.0 from client with ID 12 and personal max of 60
+Bids are: [82.0, 0.0, 288.0, 123.0, 50.0]
+Auction house calculated max bid for auction with id 2, step 3
+Max bid is: 288.0
+Broker 0 got bid of 82.0 from client with ID 251 and personal max of 100
+Broker 0 got bid of 0.0 from client with ID 20215 and personal max of 5
+Broker 1 got bid of 394.0 from client with ID 10 and personal max of 400
+Broker 1 got bid of 123.0 from client with ID 86 and personal max of 300
+Broker 1 got bid of 50.0 from client with ID 12 and personal max of 60
+Bids are: [82.0, 0.0, 394.0, 123.0, 50.0]
+Auction house calculated max bid for auction with id 2, step 4
+Max bid is: 394.0
+Broker 0 got paid 16 and now has 16
+Broker 0 got paid 0 and now has 16
+Broker 1 got paid 78 and now has 78
+Broker 1 got paid 24 and now has 102
+Broker 1 got paid 10 and now has 112
+Sold product with ID 2 and min price of 150.0 to client with ID 10 for 394.0
+
+Created auction with ID 3 - 1 / 5 participants
+Added client with ID 17 to auction with ID 3 - 2 / 5 participants
+Added client with ID 60 to auction with ID 3 - 3 / 5 participants
+Added client with ID 4 to auction with ID 3 - 4 / 5 participants
+Added client with ID 91085 to auction with ID 3 - 5 / 5 participants
+Started auction with ID 3 - 5 / 5 participants
+Broker 0 got bid of 32.0 from client with ID 60 and personal max of 50
+Broker 0 got bid of 4.0 from client with ID 17 and personal max of 20
+Broker 1 got bid of 37.0 from client with ID 60 and personal max of 50
+Broker 1 got bid of 0.0 from client with ID 4 and personal max of 90
+Broker 1 got bid of 48.0 from client with ID 91085 and personal max of 100
+Bids are: [32.0, 4.0, 37.0, 0.0, 48.0]
+Auction house calculated max bid for auction with id 3, step 0
+Max bid is: 48.0
+Broker 0 got bid of 37.0 from client with ID 60 and personal max of 50
+Broker 0 got bid of 4.0 from client with ID 17 and personal max of 20
+Broker 1 got bid of 49.0 from client with ID 60 and personal max of 50
+Broker 1 got bid of 0.0 from client with ID 4 and personal max of 90
+Broker 1 got bid of 48.0 from client with ID 91085 and personal max of 100
+Bids are: [37.0, 4.0, 49.0, 0.0, 48.0]
+Auction house calculated max bid for auction with id 3, step 1
+Max bid is: 49.0
+Broker 0 got bid of 49.0 from client with ID 60 and personal max of 50
+Broker 0 got bid of 4.0 from client with ID 17 and personal max of 20
+Broker 1 got bid of 49.0 from client with ID 60 and personal max of 50
+Broker 1 got bid of 0.0 from client with ID 4 and personal max of 90
+Broker 1 got bid of 48.0 from client with ID 91085 and personal max of 100
+Bids are: [49.0, 4.0, 49.0, 0.0, 48.0]
+Auction house calculated max bid for auction with id 3, step 2
+Max bid is: 49.0
+Broker 0 got bid of 49.0 from client with ID 60 and personal max of 50
+Broker 0 got bid of 4.0 from client with ID 17 and personal max of 20
+Broker 1 got bid of 49.0 from client with ID 60 and personal max of 50
+Broker 1 got bid of 0.0 from client with ID 4 and personal max of 90
+Broker 1 got bid of 49.0 from client with ID 91085 and personal max of 100
+Bids are: [49.0, 4.0, 49.0, 0.0, 49.0]
+Auction house calculated max bid for auction with id 3, step 3
+Max bid is: 49.0
+Broker 0 got bid of 49.0 from client with ID 60 and personal max of 50
+Broker 0 got bid of 4.0 from client with ID 17 and personal max of 20
+Broker 1 got bid of 49.0 from client with ID 60 and personal max of 50
+Broker 1 got bid of 75.0 from client with ID 4 and personal max of 90
+Broker 1 got bid of 49.0 from client with ID 91085 and personal max of 100
+Bids are: [49.0, 4.0, 49.0, 75.0, 49.0]
+Auction house calculated max bid for auction with id 3, step 4
+Max bid is: 75.0
+Broker 0 got paid 9 and now has 25
+Broker 0 got paid 0 and now has 25
+Broker 1 got paid 9 and now has 121
+Broker 1 got paid 15 and now has 136
+Broker 1 got paid 9 and now has 145
+Did not sell product with ID 3 and min price 200.0
+
+Created auction with ID 3 - 1 / 5 participants
+
+Created auction with ID 1 - 1 / 5 participants
+Added client with ID 2028 to auction with ID 1 - 2 / 5 participants
+
+Available products:
+Furniture{type='big', material='wood1', id=1, year=2001, name='Brainsphere', minPrice=100.0, sellingPrice=0.0}
+Furniture{type='big', material='wood3', id=3, year=2008, name='Rhynoodle', minPrice=200.0, sellingPrice=0.0}
+Furniture{type='big', material='wood4', id=4, year=2002, name='Yabox', minPrice=3000.0, sellingPrice=0.0}
+Furniture{type='big', material='wood5', id=5, year=1998, name='Eazzy', minPrice=1500.0, sellingPrice=0.0}
+Furniture{type='big', material='wood6', id=6, year=2010, name='Agimba', minPrice=50.0, sellingPrice=0.0}
+Furniture{type='big', material='wood7', id=7, year=2009, name='Buzzbean', minPrice=60.0, sellingPrice=0.0}
+Furniture{type='big', material='wood8', id=8, year=2011, name='BlogXS', minPrice=80.0, sellingPrice=0.0}
+Furniture{type='small', material='wood9', id=9, year=2006, name='Teklist', minPrice=100.0, sellingPrice=0.0}
+Furniture{type='small', material='wood10', id=10, year=1994, name='Brightdog', minPrice=200.0, sellingPrice=0.0}
+Painting{painterName='gigel', color=OIL, id=11, year=1994, name='Babbleset', minPrice=300.0, sellingPrice=0.0}
+Painting{painterName='marcel', color=TEMPERA, id=12, year=2009, name='Wikibox', minPrice=450.0, sellingPrice=0.0}
+Painting{painterName='ion', color=OIL, id=13, year=2002, name='InnoZ', minPrice=60.0, sellingPrice=0.0}
+Painting{painterName='radu', color=TEMPERA, id=14, year=2000, name='Realblab', minPrice=700.0, sellingPrice=0.0}
+Painting{painterName='matei', color=OIL, id=15, year=2000, name='Oba', minPrice=800.0, sellingPrice=0.0}
+Painting{painterName='andrei', color=TEMPERA, id=16, year=2004, name='Muxo', minPrice=9000.0, sellingPrice=0.0}
+Painting{painterName='ionutz', color=OIL, id=17, year=2009, name='Skidoo', minPrice=145.0, sellingPrice=0.0}
+Painting{painterName='andreea', color=ACRYLIC, id=18, year=2008, name='Kwinu', minPrice=134.0, sellingPrice=0.0}
+Painting{painterName='mara', color=ACRYLIC, id=19, year=2010, name='Feedfire', minPrice=1476.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=true, id=20, year=1995, name='Thoughtblab', minPrice=1300.0, sellingPrice=0.0}
+Jewelry{material='', isPrecious=false, id=21, year=2011, name='Skyvu', minPrice=1200.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=false, id=22, year=2012, name='Twitterbridge', minPrice=450.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=false, id=23, year=2008, name='Youspan', minPrice=300.0, sellingPrice=0.0}
+Jewelry{material='ruby', isPrecious=true, id=24, year=2002, name='Kwinu', minPrice=200.0, sellingPrice=0.0}
+Jewelry{material='plastic', isPrecious=false, id=25, year=2006, name='Dabfeed', minPrice=300.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=false, id=26, year=2007, name='Tekfly', minPrice=400.0, sellingPrice=0.0}
+Jewelry{material='crystal', isPrecious=true, id=27, year=1993, name='Youopia', minPrice=300.0, sellingPrice=0.0}
+Jewelry{material='carbon', isPrecious=true, id=28, year=1968, name='Meemm', minPrice=100.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=false, id=29, year=1964, name='Riffwire', minPrice=100.0, sellingPrice=0.0}
+Jewelry{material='wood', isPrecious=false, id=30, year=1988, name='Abata', minPrice=50.0, sellingPrice=0.0}
+
+Sold products:
+Furniture{type='big', material='wood2', id=2, year=2005, name='Youspan', minPrice=150.0, sellingPrice=394.0} sold to client with id 10
+Added client with ID 3347 to auction with ID 1 - 3 / 5 participants
+Added client with ID 63 to auction with ID 1 - 4 / 5 participants
+Added client with ID 46 to auction with ID 1 - 5 / 5 participants
+Started auction with ID 1 - 5 / 5 participants
+Broker 0 got bid of 0.0 from client with ID 6 and personal max of 100
+Broker 0 got bid of 0.0 from client with ID 3347 and personal max of 90
+Broker 0 got bid of 0.0 from client with ID 63 and personal max of 1000
+Broker 1 got bid of 0.0 from client with ID 2028 and personal max of 10
+Broker 1 got bid of 2.0 from client with ID 46 and personal max of 80
+Bids are: [0.0, 0.0, 0.0, 0.0, 2.0]
+Auction house calculated max bid for auction with id 1, step 0
+Max bid is: 2.0
+Broker 0 got bid of 78.0 from client with ID 6 and personal max of 100
+Broker 0 got bid of 29.0 from client with ID 3347 and personal max of 90
+Broker 0 got bid of 255.0 from client with ID 63 and personal max of 1000
+Broker 1 got bid of 0.0 from client with ID 2028 and personal max of 10
+Broker 1 got bid of 2.0 from client with ID 46 and personal max of 80
+Bids are: [78.0, 29.0, 255.0, 0.0, 2.0]
+Auction house calculated max bid for auction with id 1, step 1
+Max bid is: 255.0
+Broker 0 got bid of 78.0 from client with ID 6 and personal max of 100
+Broker 0 got bid of 29.0 from client with ID 3347 and personal max of 90
+Broker 0 got bid of 255.0 from client with ID 63 and personal max of 1000
+Broker 1 got bid of 0.0 from client with ID 2028 and personal max of 10
+Broker 1 got bid of 2.0 from client with ID 46 and personal max of 80
+Bids are: [78.0, 29.0, 255.0, 0.0, 2.0]
+Auction house calculated max bid for auction with id 1, step 2
+Max bid is: 255.0
+Broker 0 got bid of 78.0 from client with ID 6 and personal max of 100
+Broker 0 got bid of 29.0 from client with ID 3347 and personal max of 90
+Broker 0 got bid of 255.0 from client with ID 63 and personal max of 1000
+Broker 1 got bid of 0.0 from client with ID 2028 and personal max of 10
+Broker 1 got bid of 2.0 from client with ID 46 and personal max of 80
+Bids are: [78.0, 29.0, 255.0, 0.0, 2.0]
+Auction house calculated max bid for auction with id 1, step 3
+Max bid is: 255.0
+Broker 0 got bid of 78.0 from client with ID 6 and personal max of 100
+Broker 0 got bid of 29.0 from client with ID 3347 and personal max of 90
+Broker 0 got bid of 255.0 from client with ID 63 and personal max of 1000
+Broker 1 got bid of 0.0 from client with ID 2028 and personal max of 10
+Broker 1 got bid of 2.0 from client with ID 46 and personal max of 80
+Bids are: [78.0, 29.0, 255.0, 0.0, 2.0]
+Auction house calculated max bid for auction with id 1, step 4
+Max bid is: 255.0
+Broker 0 got paid 15 and now has 40
+Broker 0 got paid 5 and now has 45
+Broker 0 got paid 51 and now has 96
+Broker 1 got paid 0 and now has 145
+Broker 1 got paid 0 and now has 145
+Sold product with ID 1 and min price of 100.0 to client with ID 63 for 255.0
+
+Created auction with ID 28 - 1 / 5 participants
+Added client with ID 17 to auction with ID 28 - 2 / 5 participants
+Added client with ID 12 to auction with ID 28 - 3 / 5 participants
+Added client with ID 4 to auction with ID 28 - 4 / 5 participants
+Added client with ID 91085 to auction with ID 28 - 5 / 5 participants
+Started auction with ID 28 - 5 / 5 participants
+Broker 0 got bid of 28.0 from client with ID 60 and personal max of 30
+Broker 0 got bid of 0.0 from client with ID 4 and personal max of 23
+Broker 0 got bid of 6.0 from client with ID 91085 and personal max of 126
+Broker 1 got bid of 0.0 from client with ID 17 and personal max of 35
+Broker 1 got bid of 0.0 from client with ID 12 and personal max of 67
+Bids are: [28.0, 0.0, 6.0, 0.0, 0.0]
+Auction house calculated max bid for auction with id 28, step 0
+Max bid is: 28.0
+Broker 0 got bid of 28.0 from client with ID 60 and personal max of 30
+Broker 0 got bid of 0.0 from client with ID 4 and personal max of 23
+Broker 0 got bid of 101.0 from client with ID 91085 and personal max of 126
+Broker 1 got bid of 34.0 from client with ID 17 and personal max of 35
+Broker 1 got bid of 48.0 from client with ID 12 and personal max of 67
+Bids are: [28.0, 0.0, 101.0, 34.0, 48.0]
+Auction house calculated max bid for auction with id 28, step 1
+Max bid is: 101.0
+Broker 0 got bid of 28.0 from client with ID 60 and personal max of 30
+Broker 0 got bid of 0.0 from client with ID 4 and personal max of 23
+Broker 0 got bid of 105.0 from client with ID 91085 and personal max of 126
+Broker 1 got bid of 34.0 from client with ID 17 and personal max of 35
+Broker 1 got bid of 48.0 from client with ID 12 and personal max of 67
+Bids are: [28.0, 0.0, 105.0, 34.0, 48.0]
+Auction house calculated max bid for auction with id 28, step 2
+Max bid is: 105.0
+Broker 0 got bid of 28.0 from client with ID 60 and personal max of 30
+Broker 0 got bid of 0.0 from client with ID 4 and personal max of 23
+Broker 0 got bid of 120.0 from client with ID 91085 and personal max of 126
+Broker 1 got bid of 34.0 from client with ID 17 and personal max of 35
+Broker 1 got bid of 48.0 from client with ID 12 and personal max of 67
+Bids are: [28.0, 0.0, 120.0, 34.0, 48.0]
+Auction house calculated max bid for auction with id 28, step 3
+Max bid is: 120.0
+Broker 0 got bid of 28.0 from client with ID 60 and personal max of 30
+Broker 0 got bid of 0.0 from client with ID 4 and personal max of 23
+Broker 0 got bid of 120.0 from client with ID 91085 and personal max of 126
+Broker 1 got bid of 34.0 from client with ID 17 and personal max of 35
+Broker 1 got bid of 48.0 from client with ID 12 and personal max of 67
+Bids are: [28.0, 0.0, 120.0, 34.0, 48.0]
+Auction house calculated max bid for auction with id 28, step 4
+Max bid is: 120.0
+Broker 0 got paid 5 and now has 101
+Broker 0 got paid 0 and now has 101
+Broker 0 got paid 24 and now has 125
+Broker 1 got paid 6 and now has 151
+Broker 1 got paid 9 and now has 160
+Sold product with ID 28 and min price of 100.0 to client with ID 91085 for 120.0
+
+Sold products:
+Furniture{type='big', material='wood1', id=1, year=2001, name='Brainsphere', minPrice=100.0, sellingPrice=255.0} sold to client with id 63
+Jewelry{material='carbon', isPrecious=true, id=28, year=1968, name='Meemm', minPrice=100.0, sellingPrice=120.0} sold to client with id 91085
+Furniture{type='big', material='wood2', id=2, year=2005, name='Youspan', minPrice=150.0, sellingPrice=394.0} sold to client with id 10
+
+Broker earnings:
+Broker 0: 125
+Broker 1: 160
+
+Logged clients:
+NaturalPerson{birthDate='12.09.1996', id=27, name='Schimpke', address='Scoville'}
+NaturalPerson{birthDate='12.09.1995', id=56, name='Kinnin', address='Main'}
+NaturalPerson{birthDate='12.08.1995', id=52, name='Struthers', address='Talisman'}
+NaturalPerson{birthDate='Crossing', id=7, name='MacHarg', address='Doe'}
+NaturalPerson{birthDate='12.12.1995', id=96820, name='Butrimovich', address='Dawn'}
+NaturalPerson{birthDate='12.04.1995', id=2028, name='Linscott', address='Hallows'}
+NaturalPerson{birthDate='12.09.1998', id=6, name='Grzelewski', address='Katie'}
+NaturalPerson{birthDate='12.09.1984', id=876, name='', address='Graceland'}
+NaturalPerson{birthDate='12.09.1967', id=65, name='Divall', address='North'}
+NaturalPerson{birthDate='12.09.1990', id=510, name='Kunat', address='Laurel'}
+NaturalPerson{birthDate='11.09.1985', id=2249, name='Leythley', address='Johnson'}
+NaturalPerson{birthDate='12.09.2001', id=9, name='Rawcliffe', address='Menomonie'}
+NaturalPerson{birthDate='12.09.2002', id=3347, name='Timony', address='Lunder'}
+NaturalPerson{birthDate='12.09.2003', id=2, name='Fennessy', address='Moulton'}
+NaturalPerson{birthDate='12.09.2004', id=4749, name='Horrell', address='Gateway'}
+NaturalPerson{birthDate='12.09.2005', id=251, name='Marfell', address='Talisman'}
+NaturalPerson{birthDate='12.09.2006', id=63, name='Larkins', address='Moose'}
+NaturalPerson{birthDate='12.09.2007', id=46, name='Suggey', address='Helena'}
+NaturalPerson{birthDate='12.09.2001', id=15, name='Perford', address='Melby'}
+NaturalPerson{birthDate='12.09.2002', id=71, name='Szanto', address='Fulton'}
+NaturalPerson{birthDate='12.09.2005', id=41027, name='Rosser', address='Marquette'}
+NaturalPerson{birthDate='12.09.2003', id=1018, name='Eagar', address='Kinsman'}
+NaturalPerson{birthDate='12.09.2006', id=3322, name='Gartside', address='Forest'}
+NaturalPerson{birthDate='Hill', id=16, name='Michie', address='Glacier'}
+NaturalPerson{birthDate='12.03.2000', id=10, name='Gatus', address='Shelley'}
+NaturalPerson{birthDate='12.02.2000', id=60, name='Rymill', address='Warrior'}
+NaturalPerson{birthDate='12.09.1981', id=17, name='McFadden', address='Brickson'}
+NaturalPerson{birthDate='12.09.2004', id=50562, name='Beddoe', address='Hazelcrest'}
+NaturalPerson{birthDate='12.09.2005', id=2745, name='Lamey', address='Northland'}
+NaturalPerson{birthDate='12.09.2006', id=86, name='Folbig', address='Old'}
+NaturalPerson{birthDate='12.09.2001', id=20215, name='Christian', address='Columbus'}
+NaturalPerson{birthDate='12.09.1991', id=12, name='Poppleton', address='Spenser'}
+NaturalPerson{birthDate='12.09.1993', id=14, name='Bassano', address='Almo'}
+NaturalPerson{birthDate='12.09.1995', id=42, name='Dracey', address='Rieder'}
+NaturalPerson{birthDate='12.09.1995', id=4, name='Kidner', address='Springs'}
+NaturalPerson{birthDate='12.09.1997', id=8401, name='Matteoni', address='Moose'}
+NaturalPerson{birthDate='12.09.1998', id=583, name='Spridgen', address='Carioca'}
+NaturalPerson{birthDate='12.09.1999', id=92, name='Hellier', address='Roxbury'}
+NaturalPerson{birthDate='12.09.1990', id=88, name='Pover', address='Acker'}
+NaturalPerson{birthDate='12.09.1991', id=91085, name='Folonin', address='Chive'}
+NaturalPerson{birthDate='12.09.1992', id=5378, name='McDoual', address='Darwin'}
+NaturalPerson{birthDate='12.09.1993', id=990, name='Jentgens', address='Eastlawn'}
+NaturalPerson{birthDate='12.09.1994', id=1, name='Mirralls', address='Comanche'}
+NaturalPerson{birthDate='12.09.1995', id=73, name='glesias', address='Truax'}
+NaturalPerson{birthDate='12.09.1995', id=8, name='Ivanishin', address='Barnett'}
+NaturalPerson{birthDate='12.09.1996', id=25, name='Minguet', address='Hanson'}
+NaturalPerson{birthDate='12.09.1997', id=4152, name='Hartshorn', address='Warrior'}
+LegalPerson{company=SRL, shareCapital=23.56, id=4906, name='Sannes', address='Old'}
+LegalPerson{company=SRL, shareCapital=45.9, id=43066, name='Chinnock', address='Ramsey'}
+LegalPerson{company=SRL, shareCapital=4.5, id=4593, name='Brucker', address='Twin'}
+LegalPerson{company=SRL, shareCapital=2000.0, id=3431, name='Koppelmann', address='Autumn'}
+LegalPerson{company=SRL, shareCapital=3000.0, id=8129, name='Scibsey', address='Manufacturers'}
+LegalPerson{company=SRL, shareCapital=4000.0, id=4078, name='Conroy', address='Jenifer'}
+LegalPerson{company=SRL, shareCapital=6000.0, id=4532, name='Hawkslee', address='Londonderry'}
+LegalPerson{company=SRL, shareCapital=7000.0, id=749, name='Minchenton', address='Loftsgordon'}
+LegalPerson{company=SRL, shareCapital=8000.0, id=3962, name='Raimbauld', address='Granby'}
+LegalPerson{company=SRL, shareCapital=1004.0, id=31, name='McTavy', address='Esker'}
+LegalPerson{company=SRL, shareCapital=1056.0, id=9878, name='Bazoge', address='Morrow'}
+LegalPerson{company=SRL, shareCapital=456.0, id=38, name='Tuson', address='Northfield'}
+LegalPerson{company=SRL, shareCapital=2578.0, id=32075, name='Halson', address='Luster'}
+LegalPerson{company=SRL, shareCapital=257.0, id=21510, name='Risely', address='Prentice'}
+LegalPerson{company=SRL, shareCapital=13567.0, id=960, name='Sparshett', address='Orin'}
+LegalPerson{company=SRL, shareCapital=233567.0, id=13622, name='Corless', address='Jay'}
+LegalPerson{company=SRL, shareCapital=234.0, id=85, name='Hagard', address='3rd'}
+LegalPerson{company=SRL, shareCapital=3456.0, id=1323, name='Dudmarsh', address='Gina'}
+LegalPerson{company=SRL, shareCapital=54667.0, id=455, name='Gislebert', address='Fremont'}
+LegalPerson{company=SA, shareCapital=34567.0, id=627, name='Hyatt', address='Havey'}
+LegalPerson{company=SA, shareCapital=3456.0, id=51458, name='Garlicke', address='Linden'}
+LegalPerson{company=SA, shareCapital=34662.0, id=99708, name='Blencowe', address='Mitchell'}
+LegalPerson{company=SA, shareCapital=34576.0, id=452, name='Picot', address='Eagan'}
+LegalPerson{company=SA, shareCapital=23525.0, id=7016, name='Hollyard', address='Sunfield'}
+LegalPerson{company=SA, shareCapital=367.0, id=89, name='Lehenmann', address='Stang'}
+LegalPerson{company=SA, shareCapital=3673.0, id=9173, name='Nardrup', address='Atwood'}
+LegalPerson{company=SA, shareCapital=3677.0, id=37, name='Plak', address='Sherman'}
+LegalPerson{company=SA, shareCapital=3256.0, id=91137, name='Headon', address='Maple'}
+LegalPerson{company=SA, shareCapital=1216.0, id=5, name='Waltering', address='Bay'}
+LegalPerson{company=SA, shareCapital=2678.0, id=7618, name='Brasted', address='Coleman'}
+LegalPerson{company=SA, shareCapital=2357.0, id=324, name='Goadby', address='Linden'}
+LegalPerson{company=SA, shareCapital=222.0, id=4122, name='Benjafield', address='Menomonie'}
+LegalPerson{company=SA, shareCapital=6376.0, id=79976, name='Maud', address='Heffernan'}
+LegalPerson{company=SA, shareCapital=267.0, id=77083, name='Bagniuk', address='Comanche'}
+LegalPerson{company=SA, shareCapital=2573.0, id=26298, name='Feakins', address='Cardinal'}
+LegalPerson{company=SA, shareCapital=3672.0, id=816, name='Crickmer', address='Oxford'}
+LegalPerson{company=SA, shareCapital=23567.0, id=300, name='Paoletto', address='Monterey'}
+LegalPerson{company=SA, shareCapital=3673.0, id=101, name='McIan', address='Anzinger'}
+LegalPerson{company=SA, shareCapital=333.0, id=624, name='Kidby', address='Maple'}
+
+Available products:
+Furniture{type='big', material='wood3', id=3, year=2008, name='Rhynoodle', minPrice=200.0, sellingPrice=0.0}
+Furniture{type='big', material='wood4', id=4, year=2002, name='Yabox', minPrice=3000.0, sellingPrice=0.0}
+Furniture{type='big', material='wood5', id=5, year=1998, name='Eazzy', minPrice=1500.0, sellingPrice=0.0}
+Furniture{type='big', material='wood6', id=6, year=2010, name='Agimba', minPrice=50.0, sellingPrice=0.0}
+Furniture{type='big', material='wood7', id=7, year=2009, name='Buzzbean', minPrice=60.0, sellingPrice=0.0}
+Furniture{type='big', material='wood8', id=8, year=2011, name='BlogXS', minPrice=80.0, sellingPrice=0.0}
+Furniture{type='small', material='wood9', id=9, year=2006, name='Teklist', minPrice=100.0, sellingPrice=0.0}
+Furniture{type='small', material='wood10', id=10, year=1994, name='Brightdog', minPrice=200.0, sellingPrice=0.0}
+Painting{painterName='gigel', color=OIL, id=11, year=1994, name='Babbleset', minPrice=300.0, sellingPrice=0.0}
+Painting{painterName='marcel', color=TEMPERA, id=12, year=2009, name='Wikibox', minPrice=450.0, sellingPrice=0.0}
+Painting{painterName='ion', color=OIL, id=13, year=2002, name='InnoZ', minPrice=60.0, sellingPrice=0.0}
+Painting{painterName='radu', color=TEMPERA, id=14, year=2000, name='Realblab', minPrice=700.0, sellingPrice=0.0}
+Painting{painterName='matei', color=OIL, id=15, year=2000, name='Oba', minPrice=800.0, sellingPrice=0.0}
+Painting{painterName='andrei', color=TEMPERA, id=16, year=2004, name='Muxo', minPrice=9000.0, sellingPrice=0.0}
+Painting{painterName='ionutz', color=OIL, id=17, year=2009, name='Skidoo', minPrice=145.0, sellingPrice=0.0}
+Painting{painterName='andreea', color=ACRYLIC, id=18, year=2008, name='Kwinu', minPrice=134.0, sellingPrice=0.0}
+Painting{painterName='mara', color=ACRYLIC, id=19, year=2010, name='Feedfire', minPrice=1476.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=true, id=20, year=1995, name='Thoughtblab', minPrice=1300.0, sellingPrice=0.0}
+Jewelry{material='', isPrecious=false, id=21, year=2011, name='Skyvu', minPrice=1200.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=false, id=22, year=2012, name='Twitterbridge', minPrice=450.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=false, id=23, year=2008, name='Youspan', minPrice=300.0, sellingPrice=0.0}
+Jewelry{material='ruby', isPrecious=true, id=24, year=2002, name='Kwinu', minPrice=200.0, sellingPrice=0.0}
+Jewelry{material='plastic', isPrecious=false, id=25, year=2006, name='Dabfeed', minPrice=300.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=false, id=26, year=2007, name='Tekfly', minPrice=400.0, sellingPrice=0.0}
+Jewelry{material='crystal', isPrecious=true, id=27, year=1993, name='Youopia', minPrice=300.0, sellingPrice=0.0}
+Jewelry{material='diamond', isPrecious=false, id=29, year=1964, name='Riffwire', minPrice=100.0, sellingPrice=0.0}
+Jewelry{material='wood', isPrecious=false, id=30, year=1988, name='Abata', minPrice=50.0, sellingPrice=0.0}
+Painting{painterName='tata', color=TEMPERA, id=637814, year=1900, name='monalisa', minPrice=700.0, sellingPrice=0.0}
+Painting{painterName='mama', color=OIL, id=2357, year=1450, name='bigpaining', minPrice=100.0, sellingPrice=0.0}

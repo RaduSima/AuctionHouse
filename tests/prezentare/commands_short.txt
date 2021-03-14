@@ -1,0 +1,17 @@
+loadproducts tests/prezentare/products_short.txt
+logclients tests/prezentare/clients_short.txt
+clientrequest 2462 12367 40
+clientrequest 2462672 12367 50
+clientrequest 257462 12367 60
+clientrequest 246372 12367 70
+clientrequest 2463682 12367 80
+clientrequest 2462672 12390 90
+clientrequest 246372 12390 100
+clientrequest 257462 12390 110
+clientrequest 2462 12390 120
+clientrequest 246112 12390 150
+showsold
+showearnings
+addproduct FURNITURE 55555 1959 table 34 big wood9
+addproduct FURNITURE 55555 1959 table 34 big wood9
+done

@@ -1,0 +1,90 @@
+natural 27 Schimpke Scoville 12.09.1996
+natural 56 Kinnin Main 12.09.1995
+natural 52 Struthers Talisman 12.08.1995
+natural 7 MacHarg Doe Crossing 10.09.1995
+natural 96820 Butrimovich Dawn 12.12.1995
+natural 2028 Linscott Hallows 12.04.1995
+natural 6 Grzelewski Katie 12.09.1998
+natural 0876  Graceland 12.09.1984
+natural 65 Divall North 12.09.1967
+natural 0510 Kunat Laurel 12.09.1990
+natural 2249 Leythley Johnson 11.09.1985
+natural 9 Rawcliffe Menomonie 12.09.2001
+natural 3347 Timony Lunder 12.09.2002
+natural 2 Fennessy Moulton 12.09.2003
+natural 4749 Horrell Gateway 12.09.2004
+natural 251 Marfell Talisman 12.09.2005
+natural 63 Larkins Moose 12.09.2006
+natural 46 Suggey Helena 12.09.2007
+natural 15 Perford Melby 12.09.2001
+natural 71 Szanto Fulton 12.09.2002
+natural 41027 Rosser Marquette 12.09.2005
+natural 1018 Eagar Kinsman 12.09.2003
+natural 3322 Gartside Forest 12.09.2006
+natural 16 Michie Glacier Hill 10.09.2000
+natural 10 Gatus Shelley 12.03.2000
+natural 60 Rymill Warrior 12.02.2000
+natural 17 McFadden Brickson 12.09.1981
+natural 50562 Beddoe Hazelcrest 12.09.2004
+natural 2745 Lamey Northland 12.09.2005
+natural 86 Folbig Old 12.09.2006
+natural 20215 Christian Columbus 12.09.2001
+natural 12 Poppleton Spenser 12.09.1991
+natural 12 McLafferty Vernon 12.09.1992
+natural 14 Bassano Almo 12.09.1993
+natural 42 Dracey Rieder 12.09.1995
+natural 4 Kidner Springs 12.09.1995
+natural 8401 Matteoni Moose 12.09.1997
+natural 583 Spridgen Carioca 12.09.1998
+natural 92 Hellier Roxbury 12.09.1999
+natural 88 Pover Acker 12.09.1990
+natural 91085 Folonin Chive 12.09.1991
+natural 5378 McDoual Darwin 12.09.1992
+natural 990 Jentgens Eastlawn 12.09.1993
+natural 1 Mirralls Comanche 12.09.1994
+natural 73 glesias Truax 12.09.1995
+natural 8 Ivanishin Barnett 12.09.1995
+natural 25 Minguet Hanson 12.09.1996
+natural 4152 Hartshorn Warrior 12.09.1997
+legal 4906 Sannes Old SRL 23.56
+legal 43066 Chinnock Ramsey SRL 45.90
+legal 4593 Brucker Twin SRL 4.5
+legal 3431 Koppelmann Autumn SRL 2000
+legal 8129 Scibsey Manufacturers SRL 3000
+legal 4078 Conroy Jenifer SRL 4000
+legal 8 Reisin Mayfield SRL 5000
+legal 04532 Hawkslee Londonderry SRL 6000
+legal 749 Minchenton Loftsgordon SRL 7000
+legal 3962 Raimbauld Granby SRL 8000
+legal 31 McTavy Esker SRL 1004
+legal 86 Leftly Menomonie SRL 10005
+legal 9878 Bazoge Morrow SRL 1056
+legal 38 Tuson Northfield SRL 456
+legal 7 Bruin Sunbrook SRL 247
+legal 32075 Halson Luster SRL 2578
+legal 21510 Risely Prentice SRL 257
+legal 960 Sparshett Orin SRL 13567
+legal 13622 Corless Jay SRL 233567
+legal 85 Hagard 3rd SRL 234
+legal 1323 Dudmarsh Gina SRL 3456
+legal 455 Gislebert Fremont SRL 54667
+legal 627 Hyatt Havey SA 34567
+legal 51458 Garlicke Linden SA 3456
+legal 99708 Blencowe Mitchell SA 34662
+legal 452 Picot Eagan SA 34576
+legal 7016 Hollyard Sunfield SA 23525
+legal 89 Lehenmann Stang SA 367
+legal 9173 Nardrup Atwood SA 3673
+legal 37 Plak Sherman SA 3677
+legal 91137 Headon Maple SA 3256
+legal 5 Waltering Bay SA 1216
+legal 7618 Brasted Coleman SA 2678
+legal 324 Goadby Linden SA 2357
+legal 4122 Benjafield Menomonie SA 222
+legal 79976 Maud Heffernan SA 6376
+legal 77083 Bagniuk Comanche SA 267
+legal 26298 Feakins Cardinal SA 2573
+legal 816 Crickmer Oxford SA 3672
+legal 0300 Paoletto Monterey SA 23567
+legal 101 McIan Anzinger SA 3673
+legal 624 Kidby Maple SA 333
